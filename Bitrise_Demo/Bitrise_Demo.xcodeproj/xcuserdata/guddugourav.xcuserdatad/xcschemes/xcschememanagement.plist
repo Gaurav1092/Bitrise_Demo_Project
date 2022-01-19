@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Bitrise_Demo-Release.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Bitrise_Demo.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>225284AB27983DD000FB5C50</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>225284C127983DD100FB5C50</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>225284CB27983DD100FB5C50</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
