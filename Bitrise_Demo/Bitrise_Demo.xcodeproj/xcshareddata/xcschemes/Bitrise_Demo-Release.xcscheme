@@ -28,6 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "225284C127983DD100FB5C50"
+               BuildableName = "Bitrise_DemoTests.xctest"
+               BlueprintName = "Bitrise_DemoTests"
+               ReferencedContainer = "container:Bitrise_Demo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "225284CB27983DD100FB5C50"
+               BuildableName = "Bitrise_DemoUITests.xctest"
+               BlueprintName = "Bitrise_DemoUITests"
+               ReferencedContainer = "container:Bitrise_Demo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
