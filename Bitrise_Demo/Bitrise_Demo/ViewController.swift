@@ -20,8 +20,10 @@ class ViewController: UIViewController {
 
 #if PROD
     print("PROD")
+    titleLabel.text = "PROD"
 #else
     print("DEV")
+    titleLabel.text = "DEV"
 #endif
 
   }
